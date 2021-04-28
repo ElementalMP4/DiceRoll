@@ -3,7 +3,7 @@ using System.Threading;
 
 namespace DiceRoll
 {
-    class Program
+    class DiceRoll
     {
         public int lives = 0;
         public long score = 0;
