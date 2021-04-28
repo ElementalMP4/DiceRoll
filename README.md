@@ -11,4 +11,4 @@ Every 50 points you gain an extra life which can be used to prevent you from los
 
 To run the application as-is, grab the executable from the releases.
 
-To build or edit the code yourself, download `DiceRoll.cs`
+To build or edit the code yourself, download `Program.cs`
